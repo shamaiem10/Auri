@@ -104,8 +104,8 @@ flask_voice_bot/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/auri.git
-cd auri
+git clone https://github.com/shamaiem10/Auri.git
+cd Auri
 ```
 
 
